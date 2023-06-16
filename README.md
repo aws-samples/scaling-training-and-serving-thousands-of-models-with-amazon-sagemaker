@@ -4,7 +4,7 @@ As machine learning becomes increasingly prevalent in a wide range of industries
 
 Training and serving thousands of models requires a robust and scalable infrastructure, and this is where Amazon SageMaker (http://aws.amazon.com/sagemaker) can help. Amazon SageMaker is a fully-managed platform that enables developers and data scientists to build, train, and deploy machine learning models quickly, while also offering the cost-saving benefits of using Amazon's cloud infrastructure. 
 
-In this blog post, we will explore how SageMaker's features, including SageMaker Processing, SageMaker Training Jobs, and Amazon SageMaker Multi-Model Endpoint, can be used to train and serve thousands of models in a cost-effective way.
+In this notebook, we will explore how SageMaker's features, including SageMaker Processing, SageMaker Training Jobs, and Amazon SageMaker Multi-Model Endpoint, can be used to train and serve thousands of models in a cost-effective way.
 
 ## Getting Started
 
